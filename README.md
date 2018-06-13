@@ -1,1 +1,1 @@
-# Tutorial de Scrapper com Netcore 2
+# Tutorial de scrapper com Netcore 2
